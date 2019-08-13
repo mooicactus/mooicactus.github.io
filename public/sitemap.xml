@@ -3,29 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
     <loc>/</loc>
-=======
-    <loc>http://example.org/categories/</loc>
->>>>>>> cbbd010cd034c0244d68ad9140c3b03b48b271b7
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/categories/</loc>
-=======
-    <loc>http://example.org/</loc>
->>>>>>> cbbd010cd034c0244d68ad9140c3b03b48b271b7
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/tags/</loc>
-=======
-    <loc>http://example.org/tags/</loc>
->>>>>>> cbbd010cd034c0244d68ad9140c3b03b48b271b7
     <priority>0</priority>
   </url>
   
